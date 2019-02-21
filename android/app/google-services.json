@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "240550268399",
+    "firebase_url": "https://void-ee207.firebaseio.com",
+    "project_id": "void-ee207",
+    "storage_bucket": "void-ee207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240550268399:android:1dc53b1a1845950d",
+        "android_client_info": {
+          "package_name": "com.olayinkapeter.voteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240550268399-0lajrchbf0etaaoagsb6skb2a6d4c7gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olayinkapeter.voteapp",
+            "certificate_hash": "6d1697f4e3193f9730162743a837000d4490ee12"
+          }
+        },
+        {
+          "client_id": "240550268399-rnfi1nbp98g1ur1btqen2kh9ehcdjdej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2LCVQNIDbWe6IYSaLFIsAh9AhYtKgwRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240550268399-rnfi1nbp98g1ur1btqen2kh9ehcdjdej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
