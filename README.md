@@ -1,6 +1,6 @@
-# vote_idea
+# voteapp
 
-A new Flutter project.
+A new Flutter project with Firebase For Voting Ideas.
 
 ## Getting Started
 
